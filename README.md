@@ -97,7 +97,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 ## Eating
 ### Sweets
 - Café JAGA — [Facebook](https://www.facebook.com/CafeJaga/) | [Map](https://maps.app.goo.gl/952WLj8kYft9rE9L7) | 🏳️‍🌈
-	- Skořicový šnek
+	- Best cinnamon roll in Brno
 - Confectionery Martinák — [Instagram](https://www.instagram.com/cukrarstvimartinak/) | [Map](https://maps.app.goo.gl/p2Ym7ihCGGchjpqK9)
 	- Best macarons in Brno
 - Agnes — [Website](https://agneszmrzka.cz/?lang=en) | [Map](https://maps.app.goo.gl/3PBiJyvvosjWHKaQ9)
