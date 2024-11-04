@@ -142,7 +142,8 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 ### Other
 - L'Eau Vive — [Website](https://www.leauvive.cz/) | [Map](https://maps.app.goo.gl/o84UTvG7GUAwaYu46)
 	- Best escargots in Brno
-	- Cultural and spiritual experience
+	- Really great french wine
+  	- Cultural and spiritual experience
 	- Very nice garden
 - Jean Paul's — [Website](https://jpbistro.cz/index.html) | [Map](https://maps.app.goo.gl/qfw2gUuHvaPsnvFF9)
 	- Best pasta in Brno
