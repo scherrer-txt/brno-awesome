@@ -6,6 +6,50 @@ A curated list of best and greatest Brno experiences.
 
 Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/scherrer-txt/brno-awesome/pulls), or open an [issue](https://github.com/scherrer-txt/brno-awesome/issues/new). Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
+---
+
+<p align="center">
+	<a href="https://github.com/sindresorhus/awesome/blob/main/awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/sindresorhus/awesome/blob/main/create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+---
+
+# Contents
+- [Drinking](#drinking)
+	- [Cafés](#cafés)
+ 	- [Alcohol](#alcohol)
+  		- [Beer](#beer)
+    		- [Drinks](#drinks)
+	- [Tea](#tea)
+ - [Eating](#eating)
+ 	- [Sweets](#sweets)
+  	- [Bakeries](#bakeries)
+   	- [Asian](#asian)
+   	- [Burgers](#burgers)
+   	- [Breakfast](#breakfast)
+   	- [Other](#other)
+   	- [Only Czech things](#only-czech-things)
+- [Walking](#walking)
+	- [River walks](#river-walks)
+ 		- [Svratka route](#svratka-route)
+   		- [Svitava route](#svitava-route)
+ 	- [Casual walks](#casual-walks)
+  		- [City center](#city-center)
+    		- [Periphery](#periphery)
+      		- [Vnitrobloks](#vnitrobloks)
+        	- [Streets](#streets)
+         		- [Veveří](#veveří)
+           		- [Stránice](#stránice)
+             		- [Staré Brno](#staré-brno)
+               		- [Brno-střed](#brno-střed)
+                 	- [Brno Černá pole](#brno-černá-pole)
+                  	- [Parks](#parks)
+- [Credits](#credits-and-notes)
+
+---
+
 # Eating & Drinking
 ## Drinking
 ### Cafés
@@ -128,10 +172,14 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 # Walking
 ## River walks
-### Svratka route
+You can either go from start to finish or pick your own starting point. My most favorite part of Svratka route are from Anthropos to Vídeňská (where I go straight to Duck bar) and from Vídeňská to Olympia; for Svitava route, my favorites are from Industra to Vojenská nemocnice and from Křenová to Černovická.
+
+Be aware that these routes are going to get very dark after sunset and there are mostly no street lights at all. Take a friend or pack a flashlight with you. Also be mindful of numerous cyclists in the spring/summer season.
+
+### Svratka route | [map](https://maps.app.goo.gl/iSev8PbcQNpykJLY9)
 - Brno reservoir (Prýgl) → Zoo Brno → Jundrov bridge → Anthropos → Mahenova stráň → Vídeňská → Komárov skatepark → Avion → Olympia
 
-### Svitava route
+### Svitava route | [map](https://maps.app.goo.gl/t84xnC8kcYFJ8xtZA)
 - Obřany bridge → Cacovice island → Industra → Vojenská nemocnice → Křenová → Černovická → Kaštanová → Olympia
 
 ## Casual walks
@@ -169,7 +217,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Botanická
 - Bayerova-Cihlářská
 
-#### Žlutý kopec / Stránice / Kraví hora
+#### Stránice
 - Lipová
 - Hlinky
 - Lerchova
