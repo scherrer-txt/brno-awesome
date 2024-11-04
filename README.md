@@ -7,8 +7,8 @@ A curated list of best and greatest Brno experiences.
 Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/scherrer-txt/brno-awesome/pulls), or open an [issue](https://github.com/scherrer-txt/brno-awesome/issues/new). Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
 # Eating & Drinking
-### Drinking
-#### Cafés
+## Drinking
+### Cafés
 - Krátký kafe — [Instagram](https://www.instagram.com/kratkykafe/) | [Map](https://maps.app.goo.gl/Qy6DarMkcxzb1CSx9) | 🏳️‍🌈
 	- Best batch in Brno
 	- Best cheesecakes and desserts in Brno
@@ -30,8 +30,8 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Pikola Espresso Bar Brno — [Website](https://kafepikola.cz/cs/brno) | [Map](https://maps.app.goo.gl/WKdZJuDvrfaoQxMQ6) | 🏳️‍🌈
 	- Great coffee right in the center of Brno
 
-#### Alcohol
-##### Beer
+### Alcohol
+#### Beer
 - Lokál U Caipla — [Instagram](https://www.instagram.com/lokalcz) | [Map](https://maps.app.goo.gl/3KkK6ediQ6WcntFQ8)
 - U Václava — [Instagram](https://uvaclava.com/) | [Map](https://maps.app.goo.gl/wanPg6bCvE6rinWi8)
 - Pivovarský dům Poupě — [Website](https://www.pivovar-poupe.cz/en) | [Map](https://maps.app.goo.gl/jHkBMxkAWFgyA8z5A)
@@ -39,19 +39,19 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Malt Worm Craft Beer Pub — [Website](https://maltworm.cz/en/on-the-tap/) | [Map](https://maps.app.goo.gl/ANQvgPzucLQjwSjy8)
 - Duck bar — [Website](https://duckbar.cz/aktualne.html) | [Map](https://maps.app.goo.gl/i7dTsC7ftXZAtwNw7)
 
-##### Drinks
+#### Drinks
 - Air Café — [Website](https://www.aircafe-brno.com/) | [Map](https://maps.app.goo.gl/84a54WXJ3b2jYKCw5)
   - Best rums in Brno, really nice gins, staff is very well educated
 - Bar that doesn't exist — [Website](https://www.barkteryneexistuje.cz/bar) | [Map](https://maps.app.goo.gl/HSuHgNwjyntne8oPA)
 - Rotor — [Facebook](https://www.facebook.com/rotorbar/) | [Map](https://maps.app.goo.gl/HVutDbPkVj6UMfGs9)
 
-#### Tea
+### Tea
 - Chajovna — [Facebook](https://www.facebook.com/chajovnabrno/) | [Map](https://maps.app.goo.gl/3Yxho7gcTUHQ2fCa9)
   - Oldest and best teahouse in Brno
 - Dobrá čajovna — [Website](https://www.facebook.com/DCBrno) | [Map](https://maps.app.goo.gl/7FCrDMkchGQB77B88)
 
-### Eating
-#### Sweets
+## Eating
+### Sweets
 - Café JAGA — [Facebook](https://www.facebook.com/CafeJaga/) | [Map](https://maps.app.goo.gl/952WLj8kYft9rE9L7) | 🏳️‍🌈
 	- Skořicový šnek
 - Confectionery Martinák — [Instagram](https://www.instagram.com/cukrarstvimartinak/) | [Map](https://maps.app.goo.gl/p2Ym7ihCGGchjpqK9)
@@ -67,7 +67,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 	- Best crinkle cookies in Brno
   - Also great asian fusion cuisine
 
-#### Bakeries
+### Bakeries
 - Mama Stella — [Instagram](https://www.instagram.com/mama_stella_artisan) | [Map](https://maps.app.goo.gl/7Md8uWrWzAAJhfZk6)
 - Chleba Brno — [Instagram](https://www.instagram.com/chlebabrno/) | [Map](https://maps.app.goo.gl/KzgJQPZDxd4KFoUa9)
   - Best artisan bread in Brno
@@ -76,7 +76,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Carlini — [Instagram](https://www.instagram.com/carlinibrno/) | [Map](https://maps.app.goo.gl/CWarrLgDTVRq9kqR7)
 	- Best focaccia in Brno
 
-#### Asian
+### Asian
 - Little Saigon — [Instagram](https://www.instagram.com/littlesaigonbrno/) | [Map](https://maps.app.goo.gl/Efxcuc4tzCHQFdVG8)
   - Best Bún bò Nam Bô in Brno
 - Domovina — [Instagram](https://www.instagram.com/domovinabrno/) | [Map](https://maps.app.goo.gl/6o8zh3PGernjUdpb7)
@@ -92,17 +92,17 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - MANYA Sushi & Sake Izakaya — [Website](https://www.manyabrno.cz/en/home) | [Map](https://maps.app.goo.gl/WRnwS6UB1uHKSFDj8)
 	- Best izakaya in Brno
 
-#### Burgers
+### Burgers
 - Būcheck — [Facebook](https://www.facebook.com/bucheckbrno/) | [Map](https://maps.app.goo.gl/WF4V7CVZUNJFhPoi7)
 - Parodie — [Website](https://parodierestaurant.cz/) | [Map](https://maps.app.goo.gl/cHeKRcmmrRB6zN3x7)
 - Úvozna — [Instagram](https://www.instagram.com/uvoznabrno/) | [Map](https://maps.app.goo.gl/EQJUw7Lx64AGCcE19)
 
-#### Breakfast
+### Breakfast
 - Café Placzek — [Instagram]() | [Map](https://maps.app.goo.gl/TnPxuTUDGtEGdZew9) | 🏳️‍🌈
 - Chleba Brno — [Instagram](https://www.instagram.com/chlebabrno/) | [Map](https://maps.app.goo.gl/KzgJQPZDxd4KFoUa9)
 - Bango Brno — [Instagram](https://www.instagram.com/bango_brno/) | [Map](https://maps.app.goo.gl/jUd4hsiReiVneisg7)
 
-#### Other
+### Other
 - L'Eau Vive — [Website](https://www.leauvive.cz/) | [Map](https://maps.app.goo.gl/o84UTvG7GUAwaYu46)
 	- Best escargots in Brno
 	- Cultural and spiritual experience
@@ -116,7 +116,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Oáza — [Website](https://oaza-brno.cz/) | [Map](https://maps.app.goo.gl/xZFvV2HgvXC25ens9)
 	- Old school vegetarian/vegan canteen
 
-#### Only Czech things
+### Only Czech things
 - Duck bar — [Website](https://duckbar.cz/aktualne.html) | [Map](https://maps.app.goo.gl/i7dTsC7ftXZAtwNw7)
 	- Pickled camembert + curd cheese bread
 - MJ Holiday — [Website](https://holidayrestaurace.cz/) | [Map](https://maps.app.goo.gl/LroPJVZ5YXMuSahX7)
@@ -127,15 +127,15 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 	- Best chlebíčky in Brno (open sandwiches)
 
 # Walking
-#### River walks
-##### Svratka route
+## River walks
+### Svratka route
 - Brno reservoir (Prýgl) → Zoo Brno → Jundrov bridge → Anthropos → Mahenova stráň → Vídeňská → Komárov skatepark → Avion → Olympia
 
-##### Svitava route
+### Svitava route
 - Obřany bridge → Cacovice island → Industra → Vojenská nemocnice → Křenová → Černovická → Kaštanová → Olympia
 
-#### Casual walks
-##### City center
+## Casual walks
+### City center
 - walk around Žlutý kopec & Masarykova čtvrť
 - walk around Kraví hora
 	- walk from Kraví hora → zahrádkářska kolonie above Grohova → Rybkova
@@ -143,14 +143,14 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - walk around Kamenka
 - walk from Mendlovo náměstí → Výstavní → Hlinky → Anthropos
 
-##### Periphery
+### Periphery
 - walk around Cacovický ostrov
 - walk from Obřanský bridge → Bílovice nad Svitavou
 - walk around Těsnohlídkovo údolí
 - walk around Mariánské údolí
 	- walk from Mariánské údolí → Ochoz u Brna
 
-#### Vnitrobloks
+### Vnitrobloks
 - Poříčí + Křídlovická
 - Nové sady + Bezručova
 - Rybářská + Křížkovského
@@ -161,15 +161,15 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Římské náměstí
 - Nádvorní + Náplavka
 
-#### Streets
-##### Veveří
+### Streets
+#### Veveří
 - Jiráskova
 - Čápkova
 - Údolní
 - Botanická
 - Bayerova-Cihlářská
 
-##### Žlutý kopec / Stránice / Kraví hora
+#### Žlutý kopec / Stránice / Kraví hora
 - Lipová
 - Hlinky
 - Lerchova
@@ -180,7 +180,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Neumannova
 - Hlinky
 
-##### Staré Brno
+#### Staré Brno
 - Křídlovická
 - Bezručova
 - Leitnerova
@@ -189,7 +189,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Pekařská
 - Rybářská
 
-##### Brno-střed
+#### Brno-střed
 - třída Kapitána Jaroše
 - Biskupská
 - Dominikánská
@@ -199,13 +199,13 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Mozartova
 - Ulička Václava Havla
 
-##### Brno Černá pole
+#### Brno Černá pole
 - Muchova
 - Lužova
 - Trávníky
 - Durďákova
 
-#### Parks
+### Parks
 - Schreberovy zahrádky
 - Tyršův sad
 - Wilsonův les
@@ -233,5 +233,5 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - Kapucínské terasy
 - Památník Leoše Janáčka
 
-### Credits and Notes
+# Credits and Notes
 This list is heavily inspired by [Sindre Sorhus](https://github.com/sindresorhus)'s [awesome](https://github.com/sindresorhus/awesome).
