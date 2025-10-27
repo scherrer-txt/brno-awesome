@@ -1,13 +1,14 @@
 
 # Awesome Brno places [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Brno awesome is a curated list for both visitors and locals who are looking for some quick tips.
-
-Mentioned below are only the places I **really** enjoy going to — I've been there at least 3 times a year and/or I want to visit again.
-
-I'm providing links to their websites (or FB/IG) and their location on Google Maps.
-
-Places are sorted into 3 categories — for **drinking**, for **eating** and for **walking**.
+> [!NOTE]
+> Brno awesome is a **curated list** for both visitors and locals who are looking for some quick tips.
+> 
+> Mentioned below are only the places I **really** enjoy going to — I've been there at least 3 times a year and/or I want to visit again.
+> 
+> I'm providing links to their websites (or FB/IG) and their location on Google Maps.
+> 
+> Places are sorted into 3 categories — for **drinking**, for **eating** and for **walking**.
 
 > Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/scherrer-txt/brno-awesome/pulls), or open an [issue](https://github.com/scherrer-txt/brno-awesome/issues/new). Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 
@@ -80,10 +81,10 @@ Places are sorted into 3 categories — for **drinking**, for **eating** and for
 ##### Awesome lager
 - U Václava — [Instagram](https://uvaclava.com/) | [Map](https://maps.app.goo.gl/wanPg6bCvE6rinWi8)
 	- 💜 My favorite beer place
-	- Great snacks that go well with beer
+	- 👍🏻 Great snacks that go well with beer
 - Lokál U Caipla — [Instagram](https://www.instagram.com/lokalcz) | [Map](https://maps.app.goo.gl/3KkK6ediQ6WcntFQ8)
-	- Great tap beer
-	- Contemporary czech culture experience
+	- 👍🏻 Great tap beer
+	- 🇨🇿 Contemporary czech culture experience
 - Pivovarský dům Poupě — [Website](https://www.pivovar-poupe.cz/en) | [Map](https://maps.app.goo.gl/jHkBMxkAWFgyA8z5A)
 	- ⭐ Awesome steak tartare
 	- 👍🏻 Great place to have a lunch or dinner with a group of friends
@@ -92,7 +93,7 @@ Places are sorted into 3 categories — for **drinking**, for **eating** and for
 	- 💜 My favorite craft beer place
 	- 👍🏻 10 beers on tap, changing periodically
 	- 👍🏻 Curated whisky and rums selection
-##### Awesome Irish pub
+##### 🇮🇪 Awesome Irish pub
 - The Erin's Flag Irish Pub — [Facebook](https://www.facebook.com/erinsflag/) | [Map](https://maps.app.goo.gl/XxDa6zPoozE541ku8)
 #### 🍸 Awesome drinks
 - Air Café — [Website](https://www.aircafe-brno.com/) | [Map](https://maps.app.goo.gl/84a54WXJ3b2jYKCw5)
@@ -105,7 +106,7 @@ Places are sorted into 3 categories — for **drinking**, for **eating** and for
 - The bar that doesn't exist — [Website](https://www.barkteryneexistuje.cz/bar) | [Map](https://maps.app.goo.gl/HSuHgNwjyntne8oPA)
 - Rotor — [Facebook](https://www.facebook.com/rotorbar/) | [Map](https://maps.app.goo.gl/HVutDbPkVj6UMfGs9)
 	- 👍🏻 Very friendly and intimate place
-	- ⚠ Cash only
+	- ⚠️ Cash only
 - Yume Anime Bar — [Website](http://yumeanime.cz/) | [Map](https://maps.app.goo.gl/BPKa8xfu5NJoKN738)
 	- 👍🏻 Great place for anime fans
 #### 🎓 Awesome student-friendly places
@@ -114,7 +115,7 @@ Places are sorted into 3 categories — for **drinking**, for **eating** and for
 #### Honorable mention
 - Hostimil — [Facebook](https://www.facebook.com/people/Hostimil/100057614013330/) | [Map](https://maps.app.goo.gl/Z6xd2XEhFu6VNqeZA)
 	- It's certainly an experience to have
-	- ⚠ Be mildly cautious
+	- ⚠️ Be mildly cautious
 
 ### 🍵 Awesome tea
 - Chajovna — [Facebook](https://www.facebook.com/chajovnabrno/) | [Map](https://maps.app.goo.gl/3Yxho7gcTUHQ2fCa9)
@@ -151,14 +152,14 @@ Places are sorted into 3 categories — for **drinking**, for **eating** and for
 ### Meals
 #### Awesome Bún bò Nam Bô
 - Little Saigon — [Instagram](https://www.instagram.com/littlesaigonbrno/) | [Map](https://maps.app.goo.gl/Efxcuc4tzCHQFdVG8)
-#### Awesome vietnam fusion
+#### 🇻🇳 Awesome vietnam fusion
 - Domovina — [Instagram](https://www.instagram.com/domovinabrno/) | [Map](https://maps.app.goo.gl/6o8zh3PGernjUdpb7)
 - Cà Phê Cổ — [Instagram](https://www.instagram.com/capheco.brno/) | [Map](https://maps.app.goo.gl/fvMxzCqmcV2cdyvD6)
-#### Awesome japanese fusion
+#### 🇯🇵 Awesome japanese fusion
 - Bango Brno — [Instagram](https://www.instagram.com/bango_brno/) | [Map](https://maps.app.goo.gl/jUd4hsiReiVneisg7)
 - MANYA Sushi & Sake Izakaya — [Website](https://www.manyabrno.cz/en/home) | [Map](https://maps.app.goo.gl/WRnwS6UB1uHKSFDj8)
-	- ⚠ Making a reservation is a must!
-#### Awesome korean fusion
+	- ⚠️ Making a reservation is a must!
+#### 🇰🇷 Awesome korean fusion
 - Café Seoul — [Website](https://cafeseoul.cz/) | [Map](https://maps.app.goo.gl/hYhxga5Fxrj2QPgb7)
 	- 👍🏻 Great vibes
 #### 🍜 Awesome ramen
@@ -183,7 +184,7 @@ Places are sorted into 3 categories — for **drinking**, for **eating** and for
 	- 👍🏻 Great selection of french wine
 	- 👍🏻 Very nice garden right under the cathedral
 		- try Chocolate Mousse
-#### Awesome indian/nepalese
+#### 🇮🇳 🇳🇵 Awesome indian/nepalese
 - Pokhara — [Website](https://www.pokhara.cz/) | [Map](https://maps.app.goo.gl/6NCsGNZkpq2ue4ACA)
 	- 👍🏻 Unbeatable lunch menu prices
 		- try Chicken Pakhora
