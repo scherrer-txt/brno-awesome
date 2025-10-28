@@ -301,7 +301,12 @@ Sorting based on proximity to the city center, starting from nearest.
 - [**Park Medlánky Hills**](https://maps.app.goo.gl/hc5EqGxumYEokLpNA) (*Medlánecké kopce*)
 
 # Credits and Notes
-This list is heavily inspired by [Sindre Sorhus](https://github.com/sindresorhus)'s [awesome](https://github.com/sindresorhus/awesome).
+> [!IMPORTANT]
+> This list is heavily inspired by [Sindre Sorhus](https://github.com/sindresorhus)'s [awesome](https://github.com/sindresorhus/awesome).
+
+> [!CAUTION]
+> I don't work for, get paid by, have any affiliation, sponsorship or partnership with the places mentioned in this awesome list.
+
 ## To-do
 - [ ] Add Google Map links to Vnitrobloks
 - [ ] Add both Website and IG/FB for shops (now it's either/or); socials usually provide more recent information.
