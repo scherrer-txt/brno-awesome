@@ -1,7 +1,7 @@
 
 # Awesome Brno places [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> [!NOTE] Intro
+> [!NOTE]
 > Brno awesome is a **curated list** for both visitors and locals who are looking for some quick tips.
 > 
 > Mentioned below are only the places I **really** enjoy going to — I've been there at least 3 times a year and/or I want to visit again.
@@ -10,7 +10,7 @@
 > 
 > Places are sorted into 3 categories — for **drinking**, for **eating** and for **walking**.
 
-> [!TIP] Help
+> [!TIP]
 > Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/scherrer-txt/brno-awesome/pulls), or open an [issue](https://github.com/scherrer-txt/brno-awesome/issues/new). Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.
 > <p align="center"><a href="https://github.com/sindresorhus/awesome/blob/main/awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/sindresorhus/awesome/blob/main/create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;</p>
 
