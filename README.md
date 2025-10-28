@@ -24,8 +24,8 @@
   - [Tea](#awesome-tea)
 - [Eating](#eating)
   - [Sweets](#awesome-sweets)
-  - [Bakeries](#bakeries)
-  - [Meals](#meals)
+  - [Bakeries](#awesome-bakeries)
+  - [Bistros](#awesome-bistros)
 - [Walking](#walking)
   - [Along the rivers](#along-the-rivers)
   - [In the city](#in-the-city)
@@ -140,7 +140,7 @@
 		- try Lupakoule dessert
 - **Ema delicacies** — [Instagram](https://www.instagram.com/ema_chlebickarna/) | [Map](https://maps.app.goo.gl/fqsE38ANSFNhMvWs7)
 	- 🇨🇿 Awesome Czech delicacies
-	- ⭐ Absolute best chlebíčky (open sandwiches) in town
+	- ⭐ Absolute best [chlebíčky](https://en.wikipedia.org/wiki/Chleb%C3%AD%C4%8Dek) (open sandwiches) in town
 
 ## Awesome bistros
 - **Little Saigon** — [Instagram](https://www.instagram.com/littlesaigonbrno/) | [Map](https://maps.app.goo.gl/Efxcuc4tzCHQFdVG8)
@@ -229,11 +229,12 @@
 	- walk from Marian valley → [**Ochoz u Brna**](https://maps.app.goo.gl/2E77dFuXeVP7AJPL9)
 
 ### Vnitrobloks
+What is a "vnitroblok"? [**Here**](https://cs.wikipedia.org/wiki/Vnitroblok).
+
 - Poříčí + Křídlovická
 - Nové sady + Bezručova
 - Rybářská + Křížkovského
 - Výstavní + Hlinky
-- Velký Špalíček
 - Kounicova + Šumavská
 - Kotlářská + Bayerova
 - Římské náměstí
@@ -302,6 +303,7 @@ Sorting based on proximity to the city center, starting from nearest.
 # Credits and Notes
 This list is heavily inspired by [Sindre Sorhus](https://github.com/sindresorhus)'s [awesome](https://github.com/sindresorhus/awesome).
 ## To-do
+- [ ] Add Google Map links to Vnitrobloks
 - [ ] Add both Website and IG/FB for shops (now it's either/or); socials usually provide more recent information.
 - [ ] Consider switch from Google Maps to Seznam Maps or Open Street Maps (it's either convenience or privacy, now I'm more focused on readers convenience).
 - [ ] Create an easy-to-use one page website, since GitHub is not really non-dev friendly environment.
